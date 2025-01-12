@@ -18,26 +18,8 @@
     align-items: center;
   }
 
-  nav {
-    width: 100%;
-    padding: 1.5rem;
-    background: rgba(20, 20, 20, 0.95);
-    backdrop-filter: blur(10px);
-    position: fixed;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
-  .logo {
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: #00ff88;
-    text-decoration: none;
-  }
-
   .hero {
-    margin-top: 100px;
+    margin-top: 50px;
     padding: 4rem 2rem;
     text-align: center;
     max-width: 1200px;
@@ -117,10 +99,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <nav>
-    <a href="https://discord.gg/8bHG693Haa" class="logo">fwog.dev</a>
-  </nav>
-
   <div class="hero">
     <svg class="floating-gorilla" width="120" height="120" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" fill="#00ff88"/>

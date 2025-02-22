@@ -106,7 +106,7 @@
     </svg>
     <h1>fwog.dev</h1>
     <p class="description">Experience Gorilla Tag like never before with our premium mod menu. Featuring advanced customization, enhanced gameplay features, and a sleek user interface.</p>
-    <a href="https://discord.gg/8bHG693Haa" target="_blank" class="buy-button">Purchase Now</a>
+    <a href="https://discord.gg/fBmWvr5YqA" target="_blank" class="buy-button">Purchase Now</a>
   </div>
 
   <div class="features">
